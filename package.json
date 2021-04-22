@@ -3,7 +3,7 @@
   "homepage": "https://next-wordpress-starter.netlify.app",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Hamza Zeghari <zeghari.hamzaa@gmail.com>",
   "scripts": {
     "build": "next build && next export",
     "dev": "next dev",
