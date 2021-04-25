@@ -1,7 +1,15 @@
 @import "styles/settings/__settings";
 
 .content {
-  font-size: 1.5rem;
+  
+
+  font-family: Georgia,Cambria,Times New Roman,Times,serif;
+  font-size: 18px;
+  line-height: 30px;
+
+  text-align: justify;
+  text-justify: inter-word;
+
 
   h2,
   h3,
